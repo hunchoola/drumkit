@@ -16,11 +16,11 @@ footer {
 }
 
 .w {
-  background: url(./images/crash.png);
+  background: url(./image/crash.png);
 }
 
 .a {
-  background: url(./image.crash);
+  background: url(./image/kick.png);
   object-fit: contain;
 }
 
